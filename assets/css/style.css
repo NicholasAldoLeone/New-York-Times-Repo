@@ -6,3 +6,8 @@
 .display-4 {
     text-align: center;
 }
+
+#titleImg {
+    height: 100px;
+    width: 75px;
+}
